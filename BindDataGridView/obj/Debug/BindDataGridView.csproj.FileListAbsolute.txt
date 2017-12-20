@@ -1,0 +1,9 @@
+D:\Projects\BindDataGridView\BindDataGridView\bin\Debug\BindDataGridView.exe.config
+D:\Projects\BindDataGridView\BindDataGridView\bin\Debug\BindDataGridView.exe
+D:\Projects\BindDataGridView\BindDataGridView\bin\Debug\BindDataGridView.pdb
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.csprojResolveAssemblyReference.cache
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.Form1.resources
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.Properties.Resources.resources
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.csproj.GenerateResource.Cache
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.exe
+D:\Projects\BindDataGridView\BindDataGridView\obj\Debug\BindDataGridView.pdb
